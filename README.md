@@ -25,7 +25,8 @@ ___
 
 ---
 
-作者：yipkwong
-邮箱：[huangyeguang3@gmail.com](mailto:huangyeguang3@gmail.com)
-个人博客：[www.yipkwong.com](https://www.yipkwong.com)
+- 作者：yipkwong
+- 邮箱：[huangyeguang3@gmail.com](mailto:huangyeguang3@gmail.com)
+- 个人博客：[www.yipkwong.com](https://www.yipkwong.com)
+
 欢迎关注我博客，谢谢
